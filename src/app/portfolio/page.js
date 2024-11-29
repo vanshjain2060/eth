@@ -69,7 +69,7 @@ export default function PortfolioPage() {
           <div className=" justify-center w-full hidden md:flex">
             <Link href="/" className=" flex items-center space-x-2">
               <span className="hidden font-bold sm:inline-block text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-                Portfolio Builder
+                Vansh Jain's Portfolio
               </span>
             </Link>
           </div>
@@ -91,22 +91,19 @@ export default function PortfolioPage() {
             <CardContent className="p-6">
               <div className="flex flex-col items-center text-center">
                 <img
-                  src="https://pbs.twimg.com/profile_images/1679117799019659264/VT1j20Ib_400x400.jpg"
-                  alt="Bhopal Dao"
+                  src="https://media.licdn.com/dms/image/v2/D4E03AQHLRISGs42opg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1668492471771?e=1738195200&v=beta&t=h9ssbI5rJfdW2Qp1EPH2bVwi21hfDdMBMCnTgCLNlAM"
+                  alt="Vansh Jain"
                   className="w-32 h-32 rounded-full mb-4 border-2 border-pink-500"
                 />
                 <h1 className="text-2xl font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-                  Bhopal DAO
+                  Vansh Jain
                 </h1>
                 <p className="text-gray-400 mb-4">
-                  Bhopal DAO is a pioneering blockchain community that fosters
-                  collaboration, innovation, and growth. Connect with
-                  like-minded individuals, share knowledge, and contribute to
-                  groundbreaking projects
+                  Vansh Jain is a passionate blockchain developer with a keen interest in decentralized technologies. Connect with Vansh to explore innovative projects and collaborations.
                 </p>
                 <div className="flex space-x-4 mb-4">
                   <a
-                    href="https://x.com/Bhopal_Dao"
+                    href="https://twitter.com/your-twitter-handle"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -120,7 +117,7 @@ export default function PortfolioPage() {
                   </a>
 
                   <a
-                    href="https://www.linkedin.com/company/bhopal-dao/"
+                    href="https://www.linkedin.com/in/your-linkedin-profile/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -134,7 +131,7 @@ export default function PortfolioPage() {
                   </a>
 
                   <a
-                    href="https://x.com/Bhopal_Dao"
+                    href="https://twitter.com/your-twitter-handle"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
